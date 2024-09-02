@@ -13,7 +13,8 @@ const Hero = () => {
         alt="camp"
         width={50}
         height={50}  
-        className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"    
+        className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"  
+          
       />
       </div>
 
